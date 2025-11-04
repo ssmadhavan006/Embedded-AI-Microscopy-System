@@ -1,4 +1,4 @@
-# 🧫 Embedded AI Microscopy System for Marine Biodiversity  
+# Embedded AI Microscopy System for Marine Biodiversity  
 
 > **Automating microscopic biodiversity analysis using Edge AI on Raspberry Pi**  
 > A low-cost, offline, and scalable intelligent microscopy solution for marine ecosystem monitoring.
